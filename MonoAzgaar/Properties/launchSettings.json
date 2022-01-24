@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MonoAzgaar": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\diogo\\Desktop\\output\\azgaar\\map.zip\""
+    }
+  }
+}

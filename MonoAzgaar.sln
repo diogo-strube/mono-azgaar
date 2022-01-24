@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoAzgaar", "MonoAzgaar\MonoAzgaar.csproj", "{8B165FE8-1955-47B8-B274-EAC4B3A7CAEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzgaarMapParser", "AzgaarMapParser\AzgaarMapParser.csproj", "{A532C441-54EC-478D-97C3-3802E0F09894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzgaarMap", "AzgaarMap\AzgaarMap.csproj", "{DD9E7C8E-DC34-4731-892E-7D27A9C4D9AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B165FE8-1955-47B8-B274-EAC4B3A7CAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B165FE8-1955-47B8-B274-EAC4B3A7CAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B165FE8-1955-47B8-B274-EAC4B3A7CAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B165FE8-1955-47B8-B274-EAC4B3A7CAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A532C441-54EC-478D-97C3-3802E0F09894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A532C441-54EC-478D-97C3-3802E0F09894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A532C441-54EC-478D-97C3-3802E0F09894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A532C441-54EC-478D-97C3-3802E0F09894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9E7C8E-DC34-4731-892E-7D27A9C4D9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9E7C8E-DC34-4731-892E-7D27A9C4D9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9E7C8E-DC34-4731-892E-7D27A9C4D9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9E7C8E-DC34-4731-892E-7D27A9C4D9AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98E6837D-8062-4096-8C9B-1FA1211561BA}
+	EndGlobalSection
+EndGlobal

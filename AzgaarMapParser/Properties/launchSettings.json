@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzgaarMapParser": {
+      "commandName": "Project",
+      "commandLineArgs": "--map \"C:\\Users\\diogo\\Downloads\\Bois 2022-01-24-11-12.map\" --svg \"C:\\Users\\diogo\\Downloads\\Bois 2022-01-24-11-31.svg\" --output \"C:\\Users\\diogo\\Desktop\\output\\azgaar\" --width 24840 --height 10680"
+    }
+  }
+}
